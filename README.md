@@ -1,2 +1,2 @@
 # Spam-Mail-Prediction
-Predicting Real and Spam Mails using M.L. Models
+Performed Feature extraction and Predicted Spam and Ham Mails using M.L. model
